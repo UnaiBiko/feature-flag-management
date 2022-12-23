@@ -1,5 +1,5 @@
-const featureFlagService = require("./featureFlagService");
+const featureFlagsService = require("./featureFlagsService");
 
 module.exports = {
-  featureFlagService,
+  featureFlagsService,
 };

@@ -1,6 +1,6 @@
 {
-  "name": "feature-flags-managements",
-  "version": "0.1.2",
+  "name": "feature-flags-management",
+  "version": "0.1.0",
   "description": "Feature flags management module",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/UnaiBiko/feature-flags-management.git"
+  },
+  "publishConfig": {
+    "unaibiko:registry": "https://npm.pkg.github.com"
   },
   "license": "ISC",
   "author": "Joxemari",
