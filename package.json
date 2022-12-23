@@ -1,6 +1,6 @@
 {
-  "name": "feature-flags-management",
-  "version": "0.1.0",
+  "name": "feature-flags-managements",
+  "version": "0.1.1",
   "description": "Feature flags management module",
   "main": "index.js",
   "scripts": {
