@@ -1,0 +1,16 @@
+{
+  "name": "feature-flags-management",
+  "version": "0.1.0",
+  "description": "Feature flags management module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnaiBiko/feature-flags-management.git"
+  },
+  "license": "ISC",
+  "author": "Joxemari",
+  "homepage": "https://github.com/UnaiBiko/feature-flags-management#readme"
+}
