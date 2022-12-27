@@ -1,7 +1,9 @@
 const featureFlags = require("./featureFlags.json");
 
 const getFlagStatus = (flagName) => {
-  if (!featureFlags) return;
+  if (!featureFlags) {
+    return;
+  }
 
   return featureFlags[flagName];
 };
