@@ -6,14 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/UnaiBiko/feature-flags-management.git"
-  },
-  "publishConfig": {
-    "unaibiko:registry": "https://npm.pkg.github.com"
-  },
   "license": "ISC",
   "author": "Joxemari",
-  "homepage": "https://github.com/UnaiBiko/feature-flags-management#readme"
+  "homepage": "https://github.com/UnaiBiko/feature-flags-management#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnaiBiko/feature-flag-management.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/UnaiBiko/feature-flag-management/issues"
+  }
 }
